@@ -1,5 +1,7 @@
 # Blackland House Build Record
 
+**Open as a standalone page:** https://borngifted.github.io/blackland-build-record/
+
 **Work Official LLC · Leo Marshall residence · 201 Blackland Dr NW, Atlanta** · Prepared 16 September 2026
 
 The visuals for this house were not typed into a chatbot. A full 3D replica of the home was built in Blender from the DDS cabinetry drawings, the Doden Casa concept deck and the Canva lighting selections. Every image on this page was rendered from that model, and each one is shown next to the Blender screenshot it came from.
