@@ -316,6 +316,15 @@ The 26 presentation views. Left to right: the model in Blender, the Blender rend
 | Bar niche | <img src="img/vui_25_bar_niche.jpg" alt="Blender" width="260"> | <img src="img/blend_25_bar_niche.jpg" alt="render" width="260"> | <img src="img/hf_25_bar_niche.jpg" alt="Higgsfield" width="260"> |
 | Bar kitchenette | <img src="img/vui_26_bar_kitchenette.jpg" alt="Blender" width="260"> | <img src="img/blend_26_bar_kitchenette.jpg" alt="render" width="260"> | <img src="img/hf_26_bar_kitchenette.jpg" alt="Higgsfield" width="260"> |
 
+## System in play: Unreal Engine 5
+
+The same 1:1 model, exported from Blender into Unreal Engine 5 at real scale (1 Unreal unit = 1 cm) and lit in real time with Lumen. The walkthrough moves through all 26 presentation views: four exteriors, then every room of cabinetry. Nothing is generated here; each frame is rendered straight from the 3D geometry.
+
+<a href="https://borngifted.github.io/blackland-build-record/video/blackland_walkthrough_ue5.mp4"><img src="img/ue_walkthrough_poster.jpg" alt="Unreal Engine 5 walkthrough (click to play)" width="100%"></a>
+
+**[Play the walkthrough](https://borngifted.github.io/blackland-build-record/video/blackland_walkthrough_ue5.mp4)** · 1 min 31 s · 1080p · rendered in Unreal Engine 5.3
+
+
 ## What is drawn, and what is assumed
 
 Cabinet sizes, counters, niches, mirrors, room widths and ceiling heights are taken 1:1 from the DDS CAD file; fixtures come from the Canva selections. The DDS package covers cabinetry only, so the overall footprint of the house was traced from the concept deck’s plan thumbnails at an assumed front width. When an architect’s plan set is available, the model is rebuilt from it and every image on this page is re-rendered.
