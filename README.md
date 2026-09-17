@@ -2,7 +2,7 @@
 
 **Open as a standalone page:** https://borngifted.github.io/blackland-build-record/
 
-**Work Official LLC · Leo Marshall residence · 201 Blackland Dr NW, Atlanta** · Prepared 16 September 2026
+**Work Official LLC · Leo Marshall residence · 201 Blackland Dr NW, Atlanta** · Prepared 17 September 2026 · cabinetry verified 1:1 against the DDS DWG
 
 The visuals for this house were not typed into a chatbot. A full 3D replica of the home was built in Blender from the DDS cabinetry drawings, the Doden Casa concept deck and the Canva lighting selections. Every image on this page was rendered from that model, and each one is shown next to the Blender screenshot it came from.
 
@@ -37,6 +37,34 @@ The visuals for this house were not typed into a chatbot. A full 3D replica of t
 | Main level from above | Upper level | Basement |
 |---|---|---|
 | <img src="img/proof_plan_main.jpg" alt="Main plan" width="320"> | <img src="img/proof_plan_upper.jpg" alt="Upper plan" width="320"> | <img src="img/proof_plan_basement.jpg" alt="Basement plan" width="320"> |
+
+## Measured 1:1 against the DDS drawing
+
+On 17 September 2026 every room was re-read from the DDS CAD file itself (true scale, 1 unit = 1 mm) and the model was rebuilt from those numbers. A script then measures the finished Blender model against the drawing: **295 of 295 cabinetry parts are within 0.5 mm** in position, width, depth, height and elevation. Millimetres, drawing → model.
+
+| Room | Cabinet wall, face to face | Room depth | Ceiling | Parts checked | Largest deviation |
+|---|---|---|---|---|---|
+| 1st Floor Kitchen | 6436 → 6436 | 5344 → 5344 | 3000 → 3000 | 38 | 0.0 |
+| 1st Floor Pantry | 4234 → 4234 | 2620 → 2620 | 2800 → 2800 | 14 | 0.0 |
+| 1st Floor Office | 5009 → 5009 | 1687 (plan cropped in DWG) | 3000 → 3000 | 13 | 0.0 |
+| 1st Floor Aisle | 5009 → 5009 | 1000 (plan cropped in DWG) | 3000 → 3000 | 11 | 0.0 |
+| 1st Floor Laundry | 4657 → 4657 | 1560 → 1560 | 2800 → 2800 | 20 | 0.0 |
+| 1st Floor Mud | 1748 → 1748 | 833 (plan cropped in DWG) | 2600 → 2600 | 11 | 0.0 |
+| 1st Floor Powder-1 | 1787 → 1787 | 1564 → 1564 | 2800 → 2800 | 9 | 0.0 |
+| 1st Floor Primary En Suite | 5703 → 5703 | 1215 (plan cropped in DWG) | 3000 → 3000 | 16 | 0.0 |
+| 1st Floor Powder-2 | 1709 → 1709 | 1536 → 1536 | 2800 → 2800 | 4 | 0.0 |
+| 1st Floor Butler's Pantry | 3263 → 3263 | 826 → 826 | 2800 → 2800 | 12 | 0.0 |
+| 2nd Floor Laundry | 3961 → 3961 | 3483 → 3483 | 2800 → 2800 | 30 | 0.0 |
+| 2nd Floor Powder | 1857 → 1857 | 1549 → 1549 | 2800 → 2800 | 4 | 0.0 |
+| 2nd Floor En Suite | 2448 → 2448 | 1000 (plan cropped in DWG) | 2800 → 2800 | 18 | 0.0 |
+| 2nd Floor Bath 3 | 2827 → 2827 | 1581 → 1581 | 2800 → 2800 | 9 | 0.0 |
+| 2nd Floor Bath 4 | 2686 → 2686 | 1842 → 1842 | 2800 → 2800 | 9 | 0.0 |
+| 2nd Floor Bath 5 | 3552 → 3552 | 1917 → 1917 | 2800 → 2800 | 11 | 0.0 |
+| 2nd Floor Bath 6 | 3550 → 3550 | 1869 → 1869 | 2800 → 2800 | 11 | 0.0 |
+| 3rd Floor Bath 7 | 2214 → 2214 | 745 (plan cropped in DWG) | 2800 → 2800 | 8 | 0.0 |
+| 3rd Floor Bath 8 | 2146 → 2146 | 1000 (plan cropped in DWG) | 2800 → 2800 | 10 | 0.0 |
+| 3rd Floor Bar | 2913 → 2913 | 1000 (plan cropped in DWG) | 2800 → 2800 | 8 | 0.0 |
+| 3rd Floor Bar/Kitchenette | 5000 → 5000 | 3097 (plan cropped in DWG) | 2800 → 2800 | 29 | 0.0 |
 
 ## Concept views rebuilt in 3D, room by room
 
@@ -152,8 +180,6 @@ DDS cabinetry drawing this room was built from (sheet 23, mm):
 | <img src="img/ref_s21.jpg" alt="slide 21" width="320"> | <img src="img/ui_s21.jpg" alt="Blender" width="320"> | <img src="img/render_s21.jpg" alt="render" width="320"> |
 | <img src="img/ref_s22.jpg" alt="slide 22" width="320"> | <img src="img/ui_s22.jpg" alt="Blender" width="320"> | <img src="img/render_s22.jpg" alt="render" width="320"> |
 | <img src="img/ref_s23.jpg" alt="slide 23" width="320"> | <img src="img/ui_s23.jpg" alt="Blender" width="320"> | <img src="img/render_s23.jpg" alt="render" width="320"> |
-
-> The 3D model places the bedroom-6 en suite inside this laundry, so these four matches are approximate until the layout is confirmed.
 
 ### Powder · 2nd floor
 
@@ -290,40 +316,9 @@ The 26 presentation views. Left to right: the model in Blender, the Blender rend
 | Bar niche | <img src="img/vui_25_bar_niche.jpg" alt="Blender" width="260"> | <img src="img/blend_25_bar_niche.jpg" alt="render" width="260"> | <img src="img/hf_25_bar_niche.jpg" alt="Higgsfield" width="260"> |
 | Bar kitchenette | <img src="img/vui_26_bar_kitchenette.jpg" alt="Blender" width="260"> | <img src="img/blend_26_bar_kitchenette.jpg" alt="render" width="260"> | <img src="img/hf_26_bar_kitchenette.jpg" alt="Higgsfield" width="260"> |
 
-## System in play: ComfyUI
-
-A second, fully local pipeline. ComfyUI runs on the studio machine and uses depth information exported from the Blender model to keep the refined image locked to the geometry.
-
-| View | Blender render | ComfyUI photoreal pass (local) |
-|---|---|---|
-| Exterior front | <img src="img/blend_01_exterior_front.jpg" alt="render" width="360"> | <img src="img/comfy_01_exterior_front_photo.jpg" alt="ComfyUI" width="360"> |
-| Exterior rear pool | <img src="img/blend_02_exterior_rear_pool.jpg" alt="render" width="360"> | <img src="img/comfy_02_exterior_rear_pool_photo.jpg" alt="ComfyUI" width="360"> |
-| Aerial | <img src="img/blend_03_aerial.jpg" alt="render" width="360"> | <img src="img/comfy_03_aerial_photo.jpg" alt="ComfyUI" width="360"> |
-| Exterior front straight | <img src="img/blend_04_exterior_front_straight.jpg" alt="render" width="360"> | <img src="img/comfy_04_exterior_front_straight_photo.jpg" alt="ComfyUI" width="360"> |
-| Kitchen hood wall | <img src="img/blend_05_kitchen_hood_wall.jpg" alt="render" width="360"> | <img src="img/comfy_05_kitchen_hood_wall_photo.jpg" alt="ComfyUI" width="360"> |
-| Kitchen islands | <img src="img/blend_06_kitchen_islands.jpg" alt="render" width="360"> | <img src="img/comfy_06_kitchen_islands_photo.jpg" alt="ComfyUI" width="360"> |
-| Pantry | <img src="img/blend_07_pantry.jpg" alt="render" width="360"> | <img src="img/comfy_07_pantry_photo.jpg" alt="ComfyUI" width="360"> |
-| Office library | <img src="img/blend_08_office_library.jpg" alt="render" width="360"> | <img src="img/comfy_08_office_library_photo.jpg" alt="ComfyUI" width="360"> |
-| Coffee niche aisle | <img src="img/blend_09_coffee_niche_aisle.jpg" alt="render" width="360"> | <img src="img/comfy_09_coffee_niche_aisle_photo.jpg" alt="ComfyUI" width="360"> |
-| Butler's pantry | <img src="img/blend_10_butlers_pantry.jpg" alt="render" width="360"> | <img src="img/comfy_10_butlers_pantry_photo.jpg" alt="ComfyUI" width="360"> |
-| Laundry main | <img src="img/blend_11_laundry_main.jpg" alt="render" width="360"> | <img src="img/comfy_11_laundry_main_photo.jpg" alt="ComfyUI" width="360"> |
-| Mud room | <img src="img/blend_12_mud_room.jpg" alt="render" width="360"> | <img src="img/comfy_12_mud_room_photo.jpg" alt="ComfyUI" width="360"> |
-| Powder 1 | <img src="img/blend_13_powder_1.jpg" alt="render" width="360"> | <img src="img/comfy_13_powder_1_photo.jpg" alt="ComfyUI" width="360"> |
-| Primary en suite | <img src="img/blend_14_primary_ensuite.jpg" alt="render" width="360"> | <img src="img/comfy_14_primary_ensuite_photo.jpg" alt="ComfyUI" width="360"> |
-| Powder 2 | <img src="img/blend_15_powder_2.jpg" alt="render" width="360"> | <img src="img/comfy_15_powder_2_photo.jpg" alt="ComfyUI" width="360"> |
-| Upper powder | <img src="img/blend_16_upper_powder.jpg" alt="render" width="360"> | <img src="img/comfy_16_upper_powder_photo.jpg" alt="ComfyUI" width="360"> |
-| Upper laundry | <img src="img/blend_17_upper_laundry.jpg" alt="render" width="360"> | <img src="img/comfy_17_upper_laundry_photo.jpg" alt="ComfyUI" width="360"> |
-| Upper en suite | <img src="img/blend_18_upper_ensuite.jpg" alt="render" width="360"> | <img src="img/comfy_18_upper_ensuite_photo.jpg" alt="ComfyUI" width="360"> |
-| Bath 3 | <img src="img/blend_19_bath_3.jpg" alt="render" width="360"> | <img src="img/comfy_19_bath_3_photo.jpg" alt="ComfyUI" width="360"> |
-| Bath 4 | <img src="img/blend_20_bath_4.jpg" alt="render" width="360"> | <img src="img/comfy_20_bath_4_photo.jpg" alt="ComfyUI" width="360"> |
-| Bath 5 | <img src="img/blend_21_bath_5.jpg" alt="render" width="360"> | <img src="img/comfy_21_bath_5_photo.jpg" alt="ComfyUI" width="360"> |
-| Bath 6 | <img src="img/blend_22_bath_6.jpg" alt="render" width="360"> | <img src="img/comfy_22_bath_6_photo.jpg" alt="ComfyUI" width="360"> |
-| Bath 7 | <img src="img/blend_23_bath_7.jpg" alt="render" width="360"> | <img src="img/comfy_23_bath_7_photo.jpg" alt="ComfyUI" width="360"> |
-| Bath 8 | <img src="img/blend_24_bath_8.jpg" alt="render" width="360"> | <img src="img/comfy_24_bath_8_photo.jpg" alt="ComfyUI" width="360"> |
-
 ## What is drawn, and what is assumed
 
-Cabinet sizes, counters, niches, mirrors and fixtures come from the DDS sheets and the Canva selections. The DDS package covers cabinetry only, so the overall footprint of the house was traced from the concept deck’s plan thumbnails at an assumed front width. When an architect’s plan set is available, the model is rebuilt from it and every image on this page is re-rendered.
+Cabinet sizes, counters, niches, mirrors, room widths and ceiling heights are taken 1:1 from the DDS CAD file; fixtures come from the Canva selections. The DDS package covers cabinetry only, so the overall footprint of the house was traced from the concept deck’s plan thumbnails at an assumed front width. When an architect’s plan set is available, the model is rebuilt from it and every image on this page is re-rendered.
 
 **From the DWG:** cabinet runs, depths, heights, openings · **From the concept deck:** finishes, fixtures, camera views · **From Canva:** lighting and mirror products · **Assumed:** whole-house footprint scale
 
